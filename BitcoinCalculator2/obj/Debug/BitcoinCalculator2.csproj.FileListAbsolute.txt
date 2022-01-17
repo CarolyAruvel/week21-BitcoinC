@@ -1,0 +1,11 @@
+C:\Users\Laptop\source\repos\logitpe21\BitcoinCalculator2\BitcoinCalculator2\bin\Debug\BitcoinCalculator2.exe.config
+C:\Users\Laptop\source\repos\logitpe21\BitcoinCalculator2\BitcoinCalculator2\bin\Debug\BitcoinCalculator2.exe
+C:\Users\Laptop\source\repos\logitpe21\BitcoinCalculator2\BitcoinCalculator2\bin\Debug\BitcoinCalculator2.pdb
+C:\Users\Laptop\source\repos\logitpe21\BitcoinCalculator2\BitcoinCalculator2\obj\Debug\BitcoinCalculator2.csproj.AssemblyReference.cache
+C:\Users\Laptop\source\repos\logitpe21\BitcoinCalculator2\BitcoinCalculator2\obj\Debug\BitcoinCalculator2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Laptop\source\repos\logitpe21\BitcoinCalculator2\BitcoinCalculator2\obj\Debug\BitcoinCalculator2.Form2.resources
+C:\Users\Laptop\source\repos\logitpe21\BitcoinCalculator2\BitcoinCalculator2\obj\Debug\BitcoinCalculator2.Properties.Resources.resources
+C:\Users\Laptop\source\repos\logitpe21\BitcoinCalculator2\BitcoinCalculator2\obj\Debug\BitcoinCalculator2.csproj.GenerateResource.cache
+C:\Users\Laptop\source\repos\logitpe21\BitcoinCalculator2\BitcoinCalculator2\obj\Debug\BitcoinCalculator2.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\source\repos\logitpe21\BitcoinCalculator2\BitcoinCalculator2\obj\Debug\BitcoinCalculator2.exe
+C:\Users\Laptop\source\repos\logitpe21\BitcoinCalculator2\BitcoinCalculator2\obj\Debug\BitcoinCalculator2.pdb
