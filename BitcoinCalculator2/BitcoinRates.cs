@@ -22,4 +22,27 @@ namespace BitcoinCalculator2
 
              public float rate_float { get; set; }
     }
+    public class BPI
+    {
+        public USD USD { get; set; }
+    }
+
+    public class USD
+    {
+        public string code { get; set; }
+
+        public float rate_float { get; set; }
+    }
+
+    public class BPi
+    {
+        public GPB GPB { get; set; }
+    }
+    public class GPB
+    {
+        public string code { get; set; }
+
+        public float rate_float { get; set; }
+    }
+    
 }
