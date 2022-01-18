@@ -6,7 +6,20 @@ using System.Threading.Tasks;
 
 namespace BitcoinCalculator2
 {
-    internal class BitcoinRates
+    public internal class BitcoinRates
     {
+        public bpi bpi { get; set; }
+    }
+
+    public class bpi
+    {
+        public EUR EUR { get; set; }
+    }
+
+    public class EUR
+    {   
+             public string code { get; set; }
+
+             public float rate_float { get; set; }
     }
 }

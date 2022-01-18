@@ -30,7 +30,7 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form2));
             this.currencyMenu = new System.Windows.Forms.ComboBox();
-            this.getRadesBTN = new System.Windows.Forms.Button();
+            this.getRatesBTN = new System.Windows.Forms.Button();
             this.amountOfBtc = new System.Windows.Forms.TextBox();
             this.result = new System.Windows.Forms.TextBox();
             this.label = new System.Windows.Forms.Label();
@@ -48,15 +48,15 @@
             this.currencyMenu.TabIndex = 0;
             this.currencyMenu.Text = "Select currency";
             // 
-            // getRadesBTN
+            // getRatesBTN
             // 
-            this.getRadesBTN.Location = new System.Drawing.Point(594, 126);
-            this.getRadesBTN.Name = "getRadesBTN";
-            this.getRadesBTN.Size = new System.Drawing.Size(75, 23);
-            this.getRadesBTN.TabIndex = 1;
-            this.getRadesBTN.Text = "Get Rates";
-            this.getRadesBTN.UseVisualStyleBackColor = true;
-            this.getRadesBTN.Click += new System.EventHandler(this.getRadesBTN_Click);
+            this.getRatesBTN.Location = new System.Drawing.Point(594, 126);
+            this.getRatesBTN.Name = "getRatesBTN";
+            this.getRatesBTN.Size = new System.Drawing.Size(75, 23);
+            this.getRatesBTN.TabIndex = 1;
+            this.getRatesBTN.Text = "Get Rates";
+            this.getRatesBTN.UseVisualStyleBackColor = true;
+            this.getRatesBTN.Click += new System.EventHandler(this.getRadesBTN_Click);
             // 
             // amountOfBtc
             // 
@@ -93,7 +93,7 @@
             this.Controls.Add(this.label);
             this.Controls.Add(this.result);
             this.Controls.Add(this.amountOfBtc);
-            this.Controls.Add(this.getRadesBTN);
+            this.Controls.Add(this.getRatesBTN);
             this.Controls.Add(this.currencyMenu);
             this.Name = "Form2";
             this.Text = "BitcoinCalculator";
@@ -106,7 +106,7 @@
         #endregion
 
         private System.Windows.Forms.ComboBox currencyMenu;
-        private System.Windows.Forms.Button getRadesBTN;
+        private System.Windows.Forms.Button getRatesBTN;
         private System.Windows.Forms.TextBox amountOfBtc;
         private System.Windows.Forms.TextBox result;
         private System.Windows.Forms.Label label;
